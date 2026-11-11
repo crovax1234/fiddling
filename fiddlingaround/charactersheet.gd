@@ -1,4 +1,6 @@
-extends Node
+class_name CharacterSheet
+extends Resource
+
 
 
 # Called when the node enters the scene tree for the first time.
