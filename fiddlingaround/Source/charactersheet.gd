@@ -1,6 +1,5 @@
-class_name CharacterSheet
+class_name EntityDefinition
 extends Resource
-
 
 
 # Called when the node enters the scene tree for the first time.
