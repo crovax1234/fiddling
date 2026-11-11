@@ -1,4 +1,4 @@
-class_name EntityBase
+class_name EntityDefinition
 extends Resource
 
 

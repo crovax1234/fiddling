@@ -1,5 +1,5 @@
-class_name CharacterSheet
-extends Resource
+class_name CharacterDefinition
+extends EntityDefinition
 
 
 
