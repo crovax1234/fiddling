@@ -1,4 +1,6 @@
+class_name Constants
 extends Resource
+
 enum DamageTypes{Physical,
 Cold,
 Fire,
@@ -21,4 +23,8 @@ Body,
 Gloves,
 Pants,
 Shoes
+}
+enum TargetTypes{Self,
+Ally,	
+Enemy	
 }
